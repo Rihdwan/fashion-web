@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.442211dc.css",
-    "main.js": "/static/js/main.1232d088.js",
-    "static/js/787.c2c1715b.chunk.js": "/static/js/787.c2c1715b.chunk.js",
-    "static/media/hero.png": "/static/media/hero.44e0e9357d5d5075aa30.png",
-    "static/media/shopify.png": "/static/media/shopify.ebd2ec20928d9abe76a1.png",
-    "static/media/amazon.png": "/static/media/amazon.49e2c3ff9ce0994f5c49.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/vector.svg": "/static/media/vector.fa6ed5442940b2375841123db8c623be.svg",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.442211dc.css.map": "/static/css/main.442211dc.css.map",
-    "main.1232d088.js.map": "/static/js/main.1232d088.js.map",
-    "787.c2c1715b.chunk.js.map": "/static/js/787.c2c1715b.chunk.js.map"
+    "main.css": "/fashion-web/static/css/main.5407bb08.css",
+    "main.js": "/fashion-web/static/js/main.fa9e6a16.js",
+    "static/js/787.c2c1715b.chunk.js": "/fashion-web/static/js/787.c2c1715b.chunk.js",
+    "static/media/hero.png": "/fashion-web/static/media/hero.44e0e9357d5d5075aa30.png",
+    "static/media/shopify.png": "/fashion-web/static/media/shopify.ebd2ec20928d9abe76a1.png",
+    "static/media/amazon.png": "/fashion-web/static/media/amazon.49e2c3ff9ce0994f5c49.png",
+    "static/media/slick.svg": "/fashion-web/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/fashion-web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/vector.svg": "/fashion-web/static/media/vector.fa6ed5442940b2375841123db8c623be.svg",
+    "static/media/slick.ttf": "/fashion-web/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/fashion-web/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/fashion-web/index.html",
+    "main.5407bb08.css.map": "/fashion-web/static/css/main.5407bb08.css.map",
+    "main.fa9e6a16.js.map": "/fashion-web/static/js/main.fa9e6a16.js.map",
+    "787.c2c1715b.chunk.js.map": "/fashion-web/static/js/787.c2c1715b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.442211dc.css",
-    "static/js/main.1232d088.js"
+    "static/css/main.5407bb08.css",
+    "static/js/main.fa9e6a16.js"
   ]
 }
