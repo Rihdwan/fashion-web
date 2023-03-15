@@ -1,0 +1,117 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+
+.fas__hero {
+    display: flex;
+    background: #f0f0f0;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 2rem 0;
+    margin: 2rem 2rem 3rem;
+    border-radius: 50px;
+}
+
+.fas__hero-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem;
+}
+
+.fas__hero-content h1 {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+}
+
+.fes__hero-content_h1-lets {
+    background: #FFFFFF;
+    line-height: 5rem;
+}
+
+.fes__hero-content_h1-unique {
+    background: #EBD96B;
+    line-height: 5rem;
+}
+
+.fas__hero-content p {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: -0.05em;
+
+    color: #191818;
+}
+
+.fas__hero-shop-now button {
+    color: #fff;
+    background: #000000;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.fas__hero-image {
+    flex: 1;
+    display: flex;
+    align-items: end;
+}
+
+.fas__hero-image img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+@media screen and (max-width: 1050px) {
+    .fas__hero-image img {
+        min-width: 300px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .fas__hero {
+        display: flex;
+        flex-direction: column;
+    }    
+    
+    .fas__hero-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    
+    .fas__hero-content p {
+        font-size: 22px;
+        line-height: 38px;
+    }
+
+    .fas__hero-image img {
+        min-width: 200px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .fas__hero-content h1 {
+        font-size: 40px;
+        line-height: 20px;
+    }
+    
+    .fas__hero-content p {
+        font-size: 18px;
+        line-height: 20px;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .fas__hero-image img {
+        width: 80%;
+        height: auto;
+        margin-left: 2rem;
+    }    
+    
+}

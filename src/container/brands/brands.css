@@ -1,0 +1,32 @@
+.fas__brand-container {
+    background: #E6C744;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: .5rem 0 ;
+}
+
+.fas__brand-container div {
+    mix-blend-mode: multiply;
+}
+
+.fas__brand-container div img {
+    height: 30px;
+}
+
+@media screen and (min-width: 700px) {
+    .fas__brand-container div img {
+        height: 20px;
+    }
+    
+}
+
+@media screen and (max-width: 550px) {
+    .fas__brand-container div img {
+        height: 15px;
+    }
+    
+}

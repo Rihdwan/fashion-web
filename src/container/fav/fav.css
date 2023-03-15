@@ -1,0 +1,57 @@
+.fas__fav {
+    margin: 5rem 1rem 5rem;
+}
+
+.fas__fav-text p.young {
+    font-weight:bolder ;
+    text-decoration: underline;
+    padding-left: 2rem;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.fas__fav-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.fas__fav-content_trending {
+    width: 50%;
+    margin-right: .5rem;
+}
+
+.fas__fav-content_trending img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.fas__fav-content_trending-title {
+    font-size: 18px;
+}
+
+.fas__fav-content_all-under {
+    width: 50%;
+    margin-left: .5rem;
+}
+
+.fas__fav-content_all-under img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.fas__fav-content_all-under-title {
+    font-size: 18px;
+}
+
+@media screen and (max-width: 600px) {
+    .fas__fav-content_trending-title,
+    p.fas__fav-content_all-under-title
+        {
+        font-size: 12px;
+    }
+
+    p.explore {
+        font-size: 8px;
+    }
+}

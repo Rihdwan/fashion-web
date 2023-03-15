@@ -1,0 +1,30 @@
+.fas__mobile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1rem;
+}
+
+.fas__mobile-content {
+    width: 50%;
+    margin-left: 1rem;
+}
+
+.fas__mobile-content p.downloadApp {
+    font-weight:bolder ;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.fas__mobile-content a img {
+    width: 110px;
+}
+
+.fas__mobile-img {
+    width: 50%;
+}
+
+.fas__mobile-img img {
+    max-width: 100%;
+}
